@@ -25,6 +25,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="Views\Product\" />
+    <None Remove="Views\Basket\" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="wwwroot\gentela-gh-pages\vendors\Chart.js\.github\ISSUE_TEMPLATE.md" />
     <None Include="wwwroot\gentela-gh-pages\vendors\Chart.js\.github\PULL_REQUEST_TEMPLATE.md" />
     <None Include="wwwroot\gentela-gh-pages\vendors\echarts\.github\CONTRIBUTING.md" />
@@ -206,7 +210,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\login\" />
+    <Folder Include="Views\Product\" />
+    <Folder Include="Views\Basket\" />
   </ItemGroup>
-
 </Project>

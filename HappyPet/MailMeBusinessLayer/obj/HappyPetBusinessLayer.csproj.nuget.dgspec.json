@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeBusinessLayer\\HappyPetBusinessLayer.csproj": {}
+    "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeBusinessLayer/HappyPetBusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\DtoLayer\\HappyPetDtoLayer.csproj": {
+    "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/DtoLayer/HappyPetDtoLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\DtoLayer\\HappyPetDtoLayer.csproj",
+        "projectUniqueName": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/DtoLayer/HappyPetDtoLayer.csproj",
         "projectName": "HappyPetDtoLayer",
-        "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\DtoLayer\\HappyPetDtoLayer.csproj",
-        "packagesPath": "C:\\Users\\90535\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\DtoLayer\\obj\\",
+        "projectPath": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/DtoLayer/HappyPetDtoLayer.csproj",
+        "packagesPath": "/Users/yasincanbozkurt/.nuget/packages/",
+        "outputPath": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/DtoLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\90535\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/yasincanbozkurt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,42 +69,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeBusinessLayer\\HappyPetBusinessLayer.csproj": {
+    "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeBusinessLayer/HappyPetBusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeBusinessLayer\\HappyPetBusinessLayer.csproj",
+        "projectUniqueName": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeBusinessLayer/HappyPetBusinessLayer.csproj",
         "projectName": "HappyPetBusinessLayer",
-        "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeBusinessLayer\\HappyPetBusinessLayer.csproj",
-        "packagesPath": "C:\\Users\\90535\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeBusinessLayer\\obj\\",
+        "projectPath": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeBusinessLayer/HappyPetBusinessLayer.csproj",
+        "packagesPath": "/Users/yasincanbozkurt/.nuget/packages/",
+        "outputPath": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeBusinessLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\90535\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/yasincanbozkurt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\DtoLayer\\HappyPetDtoLayer.csproj": {
-                "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\DtoLayer\\HappyPetDtoLayer.csproj"
+              "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/DtoLayer/HappyPetDtoLayer.csproj": {
+                "projectPath": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/DtoLayer/HappyPetDtoLayer.csproj"
               },
-              "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeDataAccessLayer\\HappyPetDataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeDataAccessLayer\\HappyPetDataAccessLayer.csproj"
+              "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeDataAccessLayer/HappyPetDataAccessLayer.csproj": {
+                "projectPath": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeDataAccessLayer/HappyPetDataAccessLayer.csproj"
               },
-              "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj": {
-                "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj"
+              "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeEntityLayer/HappyPetEntityLayer.csproj": {
+                "projectPath": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeEntityLayer/HappyPetEntityLayer.csproj"
               }
             }
           }
@@ -164,36 +160,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeDataAccessLayer\\HappyPetDataAccessLayer.csproj": {
+    "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeDataAccessLayer/HappyPetDataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeDataAccessLayer\\HappyPetDataAccessLayer.csproj",
+        "projectUniqueName": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeDataAccessLayer/HappyPetDataAccessLayer.csproj",
         "projectName": "HappyPetDataAccessLayer",
-        "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeDataAccessLayer\\HappyPetDataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\90535\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeDataAccessLayer\\obj\\",
+        "projectPath": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeDataAccessLayer/HappyPetDataAccessLayer.csproj",
+        "packagesPath": "/Users/yasincanbozkurt/.nuget/packages/",
+        "outputPath": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeDataAccessLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\90535\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/yasincanbozkurt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj": {
-                "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj"
+              "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeEntityLayer/HappyPetEntityLayer.csproj": {
+                "projectPath": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeEntityLayer/HappyPetEntityLayer.csproj"
               }
             }
           }
@@ -247,28 +241,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj": {
+    "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeEntityLayer/HappyPetEntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj",
+        "projectUniqueName": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeEntityLayer/HappyPetEntityLayer.csproj",
         "projectName": "HappyPetEntityLayer",
-        "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj",
-        "packagesPath": "C:\\Users\\90535\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\obj\\",
+        "projectPath": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeEntityLayer/HappyPetEntityLayer.csproj",
+        "packagesPath": "/Users/yasincanbozkurt/.nuget/packages/",
+        "outputPath": "/Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeEntityLayer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\90535\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/yasincanbozkurt/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -322,7 +314,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
         }
       }
     }

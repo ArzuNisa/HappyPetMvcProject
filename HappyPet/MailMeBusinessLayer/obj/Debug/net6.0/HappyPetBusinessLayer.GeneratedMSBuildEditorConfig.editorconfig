@@ -8,6 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HappyPetBusinessLayer
-build_property.ProjectDir = C:\Users\90535\OneDrive\Belgeler\GitHub\HappyPetMvcProject\HappyPet\MailMeBusinessLayer\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = /Users/yasincanbozkurt/Downloads/HappyPetMvcProject-main/HappyPet/MailMeBusinessLayer/

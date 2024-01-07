@@ -1,46 +1,45 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
 using HappyPetDataAccessLayer.Abstract;
-using HappyPetDataAccessLayer.Concrete;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace MailMeDataAccessLayer.Repositories
 {
     public class GenericRepository<T> : IGenericDal<T> where T : class
     {
-        public void Delete(T t)
+        private readonly DbContext _context;
+
+        public GenericRepository(DbContext context)
         {
-            using var context = new Context();
-            context.Set<T>().Remove(t);
-            context.SaveChanges();
+            _context = context;
         }
 
-        public T GetByID(int id)
+        public async Task Add(T entity)
         {
-            using var context = new Context();
-            return context.Set<T>().Find(id);
+            await _context.Set<T>().AddAsync(entity);
+            await _context.SaveChangesAsync();
         }
 
-        public List<T> GetList()
+        public async Task Delete(T entity)
         {
-            using var context = new Context();
-            return context.Set<T>().ToList();
+            _context.Set<T>().Remove(entity);
+            await _context.SaveChangesAsync();
         }
 
-        public void Insert(T t)
+        public async Task Update(T entity)
         {
-            using var context = new Context();
-            context.Set<T>().Add(t);
-            context.SaveChanges();
+            _context.Set<T>().Update(entity);
+            await _context.SaveChangesAsync();
         }
 
-        public void Update(T t)
+        public async Task<T> GetByID(int id)
         {
-            using var context = new Context();
-            context.Set<T>().Update(t);
-            context.SaveChanges();
+            return await _context.Set<T>().FindAsync(id);
+        }
+
+        public async Task<List<T>> GetAll()
+        {
+            return await _context.Set<T>().ToListAsync();
         }
     }
 }

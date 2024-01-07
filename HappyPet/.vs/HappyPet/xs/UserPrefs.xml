@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{16F00935-A047-40E8-B92C-B0298E203E2F}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HappyPet" expanded="True">
+            <Node name="HappyPetDataAccessLayer" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="HappyPetDtoLayer" expanded="True">
+              <Node name="Dtos" expanded="True">
+                <Node name="AppRoleDtos" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="HappyPetEntityLayer" expanded="True">
+              <Node name="Concrete" expanded="True" />
+            </Node>
+            <Node name="PresentationLayer" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ConfirmMailController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Basket" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Product" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PresentationLayer PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

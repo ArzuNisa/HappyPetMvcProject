@@ -1,31 +1,10 @@
-@{
-    ViewData["Title"] = "HappyPet Ana Sayfa";
+﻿@{
+    ViewBag.Title = "Home Page";
 }
 
-<div class="container text-center">
-    <h1 class="display-4">HappyPet'e Hoş Geldiniz!</h1>
-    <p>Sevimli dostlarınız için ihtiyacınız olan her şey burada.</p>
+<h2>Welcome to HappyPet!</h2>
 
-    <div class="row mt-4">
-        <div class="col">
-            <h2>Kategoriler</h2>
-            <p>Birbirinden farklı ürün kategorilerimizi keşfedin.</p>
-            <a class="btn btn-primary" href="/products/categories">Kategorilere Göz At</a>
-        </div>
-        <div class="col">
-            <h2>Popüler Ürünler</h2>
-            <p>En çok tercih edilen ürünlerimize göz atın.</p>
-            <a class="btn btn-primary" href="/products/popular">Popüler Ürünler</a>
-        </div>
-    </div>
-
-    <div class="mt-5">
-        <h2>Hakkımızda</h2>
-        <p>
-            HappyPet, evcil hayvanlarınız için en kaliteli ürünleri sunmayı amaçlayan bir online mağazadır.
-            <a href="/about">Daha fazla bilgi</a>
-        </p>
-    </div>
-</div>
-
-<!-- Burada stil dosyalarınızı ve gerekli JavaScript dosyalarınızı eklemeyi unutmayın -->
+<p>
+    <a href="@Url.Action("Index", "Product")">View Products</a> |
+    <a href="@Url.Action("Index", "Basket", new { userId = 1 /* Replace with actual user ID */ })">View Basket</a>
+</p>

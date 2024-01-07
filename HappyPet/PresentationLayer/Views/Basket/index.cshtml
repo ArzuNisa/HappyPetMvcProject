@@ -1,0 +1,26 @@
+﻿@model IEnumerable<HappyPetDtoLayer.Dtos.UserBasketDto>
+@{
+    ViewBag.Title = "Your Basket";
+}
+
+<h2>Your Basket</h2>
+
+<table>
+    <tr>
+        <th>Product ID</th>
+        <th>Quantity</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ProductID</td>
+            <td>@item.Quantity</td>
+            <td>
+                <a href="@Url.Action("RemoveFromBasket", "Basket", new { basketId = item.BasketID })">Remove</a>
+            </td>
+        </tr>
+    }
+</table>
+
+<a href="@Url.Action("ClearBasket", "Basket", new { userId = 1 /* Replace with actual user ID */ })">Clear Basket</a>
