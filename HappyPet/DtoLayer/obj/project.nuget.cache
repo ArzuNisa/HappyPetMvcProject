@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bmdq0vuCIexuWY24O5B6bfqyMMgiRcFWwtPohaHwWCBOiNxB+K/yTpYGPcFo4QjZ40zA9GavEu2aCfKlPDT2ag==",
+  "dgSpecHash": "194AoVqigFi6eV3HbUm+udgn89eauCpso2gci8xPhs8YTzT2WaqumSvbaMbKcddzaVQB29C6fa7eO2wijMzwOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\DtoLayer\\HappyPetDtoLayer.csproj",
+  "projectFilePath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\DtoLayer\\HappyPetDtoLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\90535\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\90535\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

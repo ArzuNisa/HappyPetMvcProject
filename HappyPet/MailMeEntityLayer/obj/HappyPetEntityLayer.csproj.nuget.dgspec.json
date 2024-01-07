@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj": {}
+    "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj": {
+    "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj",
         "projectName": "HappyPetEntityLayer",
-        "projectPath": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj",
+        "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj",
         "packagesPath": "C:\\Users\\90535\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\MailMeEntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\90535\\AppData\\Roaming\\NuGet\\NuGet.Config",

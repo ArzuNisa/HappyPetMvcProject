@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2EDUUcrbkeWj0bocguAg+U44EryQyeeK21dPXvYzuUTLNd3e/HI55LClXg2SJLPBeUtinJrjAmYV/y8QCdK9kg==",
+  "dgSpecHash": "tF2woDwkhMAtpVdDOhzqrGyEAFOIpcAudoYtO6qKxqFAhjdwq+JHDyQb0mTPVw23AheQ5V3OfdqLh3VOXICHbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\MailMeDataAccessLayer\\HappyPetDataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeDataAccessLayer\\HappyPetDataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\90535\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\90535\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.16\\microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",
