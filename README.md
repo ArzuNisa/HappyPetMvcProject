@@ -29,6 +29,6 @@ Bu projeye katkıda bulunanlar:
 
 - [ArzuNisa](https://github.com/ArzuNisa)
 - [bozkuya](https://github.com/bozkuya)
--[Tuhba](https://github.com/Tuhba)
+- [Tuhba](https://github.com/Tuhba)
 
 
