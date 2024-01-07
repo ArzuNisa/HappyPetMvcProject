@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\DtoLayer\\HappyPetDtoLayer.csproj",
+      "projectUniqueName": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\DtoLayer\\HappyPetDtoLayer.csproj",
       "projectName": "HappyPetDtoLayer",
-      "projectPath": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\DtoLayer\\HappyPetDtoLayer.csproj",
+      "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\DtoLayer\\HappyPetDtoLayer.csproj",
       "packagesPath": "C:\\Users\\90535\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\DtoLayer\\obj\\",
+      "outputPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\DtoLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\90535\\AppData\\Roaming\\NuGet\\NuGet.Config",

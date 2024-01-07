@@ -205,4 +205,8 @@
     <ProjectReference Include="..\MailMeEntityLayer\HappyPetEntityLayer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\login\" />
+  </ItemGroup>
+
 </Project>

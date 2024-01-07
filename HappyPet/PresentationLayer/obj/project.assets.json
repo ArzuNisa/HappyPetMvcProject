@@ -11291,11 +11291,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\PresentationLayer\\PresentationLayer.csproj",
+      "projectUniqueName": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\PresentationLayer\\PresentationLayer.csproj",
       "projectName": "PresentationLayer",
-      "projectPath": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\PresentationLayer\\PresentationLayer.csproj",
+      "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\PresentationLayer\\PresentationLayer.csproj",
       "packagesPath": "C:\\Users\\90535\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\PresentationLayer\\obj\\",
+      "outputPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\PresentationLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\90535\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11312,14 +11312,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\MailMeBusinessLayer\\HappyPetBusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\MailMeBusinessLayer\\HappyPetBusinessLayer.csproj"
+            "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeBusinessLayer\\HappyPetBusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeBusinessLayer\\HappyPetBusinessLayer.csproj"
             },
-            "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\MailMeDataAccessLayer\\HappyPetDataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\MailMeDataAccessLayer\\HappyPetDataAccessLayer.csproj"
+            "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeDataAccessLayer\\HappyPetDataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeDataAccessLayer\\HappyPetDataAccessLayer.csproj"
             },
-            "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj": {
-              "projectPath": "C:\\Users\\90535\\OneDrive\\Masaüstü\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj"
+            "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj": {
+              "projectPath": "C:\\Users\\90535\\OneDrive\\Belgeler\\GitHub\\HappyPetMvcProject\\HappyPet\\MailMeEntityLayer\\HappyPetEntityLayer.csproj"
             }
           }
         }
